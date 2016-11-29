@@ -3,7 +3,7 @@
 python Create_Alignment_files.py chr# start end
 python Sguide_calculation.py chr# start end
 python Filter_specificity_threshold.py
-python Percent_chromatin_free.py
+python Percent_chromatin_free.py      
 python Guide_pairing.py
 python Oligonucleotide_generator.py
 
